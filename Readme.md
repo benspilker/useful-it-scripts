@@ -1,6 +1,8 @@
 # Useful IT Scripts
 
-A compilation of various PowerShell and Batch files that I’ve developed over the years while working for a Managed Service Provider (MSP). These scripts cover a wide range of IT tasks, automation, troubleshooting, and maintenance processes. The goal is to provide useful, reusable code snippets to make IT tasks more efficient or get information about PC assets.
+A compilation of various PowerShell and Batch files that I’ve developed over the years while working for a Managed Service Provider (MSP). These scripts cover a wide range of IT tasks, automation, troubleshooting, and maintenance processes. 
+
+The goal being to provide useful reusable code snippets to make IT tasks more efficient or get info about PC assets.
 
 ## Table of Contents
 
