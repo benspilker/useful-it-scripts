@@ -11,7 +11,6 @@ $End = 254
 $PingCount = 1
 
 
-
 # === Normalize Target MAC ===
 $NormalizedTargetMAC = ($TargetMAC -replace '[-:]', '').ToUpper()
 
