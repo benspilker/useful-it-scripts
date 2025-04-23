@@ -1,7 +1,7 @@
 # === CONFIGURABLE VARIABLES ===
 
-# Change your variables to match your network
-# Change Target MAC to find the device you're looking for
+# Change your subnet to match your network
+# Change Target MAC to find the device you're looking for (or leave the default if you don't have a target)
 
 $TargetMAC = "0C:38:3E:5D:C5:D2"  # Can be with dashes, colons, or just digits
 
