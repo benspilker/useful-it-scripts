@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -Command "& "C:\download\DiskspaceChecker-EmailWhenLow.ps1"
