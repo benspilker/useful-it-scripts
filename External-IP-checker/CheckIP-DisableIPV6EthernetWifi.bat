@@ -7,7 +7,7 @@ PowerShell.exe -ExecutionPolicy Bypass -Command "
 
     # Email Configuration
     \$EmailTo = 'youremail@yourdomain.com'
-    \$EmailFrom = 'hostfilechecker@ne-inc.com'
+    \$EmailFrom = 'hostfilechecker@yourdomain.com'
     \$EmailUser = 'securence-authenticated-user@yourdomain.com'
     \$PW = 'securence-authenticated-user-password-here'
     \$SMTPServer = 'smtp.securence.com'
