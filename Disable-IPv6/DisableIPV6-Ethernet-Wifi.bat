@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -Command "Disable-NetAdapterBinding -InterfaceAlias 'Ethernet' -ComponentID ms_tcpip6;Disable-NetAdapterBinding -InterfaceAlias 'Wi-Fi' -ComponentID ms_tcpip6"
