@@ -8,6 +8,9 @@ The goal being to provide useful reusable code snippets to make IT tasks more ef
 
 To get a copy of this repository up and running on your local machine, follow these instructions:
 
-1. Clone the repository:
+1. Clone the repository (requires git installed on your machine first):
    ```bash
    git clone https://github.com/benspilker/useful-it-scripts.git
+
+
+Or if you just want a specific script, pick the desired script and copy & paste it
