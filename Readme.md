@@ -13,4 +13,4 @@ To get a copy of this repository up and running on your local machine, follow th
    git clone https://github.com/benspilker/useful-it-scripts.git
 
 
-Or if you just want a specific script, pick the desired script and copy & paste it
+Or if you just want a specific script, pick the desired script and copy & paste it.
